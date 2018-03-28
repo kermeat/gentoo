@@ -22,5 +22,8 @@
 		<flag name="topology">
 			Build topology spatial types and functions
 		</flag>
+		<flag name="sfcgal">
+			Add SFCGAL advanced 2D and 3D functions
+		</flag>
 	</use>
 </pkgmetadata>
